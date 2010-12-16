@@ -1,0 +1,20 @@
+1.29239E+12,1213,/d/rfp/RFPOID,200,Response User Transaction 1-8,28477,1212
+1.29239E+12,1944,/pipe/response/prepopulate?appname=glcng,200,Response User Transaction 1-2,46301,1943
+1.29239E+12,4475,Response Form Page,200,Response User Transaction 1-2,174229,4465
+1.29239E+12,377,/l_logout,200,Response User Transaction 1-2,1589,377
+1.29239E+12,2231,/pipe/response/prepopulate?appname=glcng,200,Response User Transaction 1-7,42298,2230
+1.29239E+12,4963,Response Form Page,200,Response User Transaction 1-7,170004,4958
+1.29239E+12,219,/p_logout,200,Response User Transaction 1-2,1603,219
+1.29239E+12,596,Logout,200,Response User Transaction 1-2,3192,596
+1.29239E+12,236,/l_logout,200,Response User Transaction 1-7,1589,236
+1.29239E+12,218,/p,200,Response User Transaction 1-2,1616,218
+1.29239E+12,219,Login Landing Page,200,Response User Transaction 1-2,1616,218
+1.29239E+12,1751,/d/drso/search_asc,200,Response User Transaction 1-6,9468,1751
+1.29239E+12,1785,/d/drso/search_desc,200,Response User Transaction 1-4,14199,1784
+1.29239E+12,2870,Sort by Recieve Date,200,Response User Transaction 1-4,23667,2869
+1.29239E+12,207,/p_logout,200,Response User Transaction 1-7,1603,207
+1.29239E+12,443,Logout,200,Response User Transaction 1-7,3192,443
+1.29239E+12,265,/l_login,200,Response User Transaction 1-2,493,265
+1.29239E+12,246,/p,200,Response User Transaction 1-7,1616,246
+1.29239E+12,246,Login Landing Page,200,Response User Transaction 1-7,1616,246
+1.29239E+12,2355,/pipe/response/prepopulate?appname=glcng,200,Response User Transaction 1-1,42246,2354
